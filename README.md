@@ -2,7 +2,7 @@
 This project demonstrates the application of a RandomForestClassifier to classify fruits. The model is trained to identify various fruits based on features such as mass, width, height, and color score.
 
 ## Project Overview
-The pipeline is built using Python and incorporates several key libraries:
+The project is built using Python and incorporates several key libraries:
 * Pandas for data manipulation
 * Matplotlib and Seaborn for data visualization
 * Scikit-learn for machine learning tasks
