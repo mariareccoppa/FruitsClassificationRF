@@ -3,7 +3,7 @@ This project demonstrates the application of a RandomForestClassifier to classif
 
 ## Project Overview
 The pipeline is built using Python and incorporates several key libraries:
-* Pandas and NumPy for data manipulation
+* Pandas for data manipulation
 * Matplotlib and Seaborn for data visualization
 * Scikit-learn for machine learning tasks
 
